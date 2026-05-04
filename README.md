@@ -1,2 +1,2 @@
 # MLmodels
-AI Class (431)
+CSCI 431 - Stetson University
